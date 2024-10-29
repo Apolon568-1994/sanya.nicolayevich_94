@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    gap:10px;
+    flex-direction: column;
+
+}
+div{
+border-radius: 10px;
+background-color: orange;
+width: 120px;
+height: auto;
+}
